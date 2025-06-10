@@ -1,0 +1,16 @@
+[project]
+name = "agentic-ai-3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "litellm>=1.72.0",
+    "openai>=1.83.0",
+    "openai-agents>=0.0.16",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "streamlit>=1.45.1",
+    "urllib3>=2.4.0",
+]
